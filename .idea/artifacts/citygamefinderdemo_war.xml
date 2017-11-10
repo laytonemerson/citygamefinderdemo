@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="citygamefinderdemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="citygamefinderdemo.war">
+      <element id="artifact" artifact-name="citygamefinderdemo:war exploded" />
+    </root>
+  </artifact>
+</component>
